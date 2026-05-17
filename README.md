@@ -1,4 +1,4 @@
-<img src = "GitBanner.png" >
+<img src = "back.png" >
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishit-verma-398b40320/" target="_blank">
